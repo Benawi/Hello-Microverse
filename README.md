@@ -114,7 +114,10 @@ You can deploy this project adding new lines of code to index.html and styles.cs
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-No future features suggested.
+Kindly add 1-3 potential features to your project. 🥺 This can be:
+   - to build the home page and some other pages,
+   - styling of the pages,
+   - making the pages responsive
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
